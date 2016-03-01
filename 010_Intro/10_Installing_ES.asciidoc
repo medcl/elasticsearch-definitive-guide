@@ -1,4 +1,4 @@
-[[运行elasticsearch]]
+[[运行 elasticsearch]]
 === Installing and Running Elasticsearch
 
 The easiest way to understand what Elasticsearch can do for you is to
