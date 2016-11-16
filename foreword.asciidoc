@@ -22,6 +22,6 @@
 Clint 和 Zach 是 Elasticsearch 能否成功的关键。他们是完美的解说家，从简单的上层应用到复杂的内部逻辑（Apache Lucene）。这真是一个独特的技能，在 Elastic 我们深深珍惜。
 Clint 还负责 Elasticsearch Perl 客户端，而 Zach 则负责 PHP，都是精彩的代码。
 
-最后，两位在 Elasticsearch 项目每天都在发生的大多数事情中也扮演着重要的角色。Elasticsearch 如此受欢迎的主要原因之一就是与用户具有同理心的沟通能力，Clint 和 Zach 都是这个集体的一份子，这让一切成为可能。
+最后，两位在 Elasticsearch 项目每天都在发生的大多数事情中也扮演着重要的角色。Elasticsearch 如此受欢迎的主要原因之一就是拥有与用户沟通产生共鸣的能力，Clint 和 Zach 都是这个集体的一份子，这让一切成为可能。
 
 _Shay Banon_
