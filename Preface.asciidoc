@@ -288,8 +288,8 @@ dajyaretakuya，looly，michealzh，node，sdlyjzh，wharstr9027，
 sunyonggang，zhaochenxiao90，Josephjin，lephix，claire chen，blogsit，
 calm4wei，Geolem，JessicaWon，kfypmqqw，weiqiangyuan，yichao2015，
 rockybean，leo650，tangmisi，cdma，calm4wei，EvanYellow，fanyer，
-Lywangwenbin，luoruixing，Miranda21，weikuo0506，javasgl，kaichuang1992，
-lvbabc，kankedong，smilesfc，qindongliang，wxz717，biyuhao，LiuGangR，
+Lywangwenbin，luoruixing，Miranda21，weikuo0506，javasgl，
+lvbabc，kankedong，smilesfc，qindongliang，biyuhao，LiuGangR，
 lxy4java，wangxiuwen，zcola，gitqh，blackoon，davidmr_001，stromdush，
 feuyeux，echolihao，cch123，xlingit，chancelee228，sunzhenya，AlixMu，
 bsll，donglangdtstack，destinyfortune，medcl
