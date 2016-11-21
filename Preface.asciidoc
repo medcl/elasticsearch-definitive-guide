@@ -174,7 +174,7 @@ Do not edit this section.
 ////
 
 本书的目的是为了帮你尽快能完成工作。一般来说，本书提供的示例代码你都可以用于你的程序或文档。
-你不需要联系我们来询问许可，除非你打算复用现当大一部分代码。比如，写一个程序用了一段本书的代码不需要许可，但是销售或者是发行一张包含所有 O’Reilly 图书的示例代码的 CD 这个就需要许可。
+你不需要联系我们来询问许可，除非你打算复用相当大一部分代码。比如，写一个程序用了一段本书的代码不需要许可，但是销售或者是发行一张包含所有 O’Reilly 图书的示例代码的 CD 这个就需要许可。
 引用这本书、引用示例代码来回答问题不需要许可，将大量的示例代码从这本书中包含到您的产品的文档中，这个需要许可。
 
 关于署名出处，我们欣赏但不是必须。一个出处通常包含：书名、作者、出版商和 ISBN。如： _Elasticsearch: The Definitive Guide_ by Clinton Gormley and Zachary Tong (O’Reilly). Copyright 2015 Elasticsearch BV, 978-1-449-35854-9。
@@ -199,7 +199,7 @@ Do not edit this section.
 pass:[<a href="http://safaribooksonline.com" class="orm:hideurl:ital"><em class="hyperlink">Safari Books Online</em></a>] is an on-demand digital library that delivers expert pass:[<a href="https://www.safaribooksonline.com/explore/" class="orm:hideurl">content</a>] in both book and video form from the world&#8217;s leading authors in technology and business.
 ====
 
-技术专家、软件开发人员、网页设计师和商业和创意专家使用Safari在线图书作为他们的主要研究资源用于解决问题、学习和认证培训。
+技术专家、软件开发人员、网页设计师和商业创意专家使用Safari在线图书作为他们的主要研究资源，用于解决问题、学习和认证培训。
 
 ++++
 <p>Safari Books Online offers a range of <a href="https://www.safaribooksonline.com/pricing/" class="orm:hideurl">plans and pricing</a> for <a href="https://www.safaribooksonline.com/enterprise/" class="orm:hideurl">enterprise</a>, <a href="https://www.safaribooksonline.com/government/" class="orm:hideurl">government</a>, <a href="https://www.safaribooksonline.com/academic-public-library/" class="orm:hideurl">education</a>, and individuals.</p>
@@ -247,7 +247,7 @@ endif::es_build[]
 
 为什么配偶总是被放到最后一个？但并非是说最不重要！
 在我们心中毫无疑问，有两个最值得我们感谢的人，他们是 Clinton 长期受苦的老婆和 Zach 的未婚妻。
-他们照顾着我们和爱着我们，毫不懈怠，忍受我们的缺席和我们没完没了的抱怨这本书还要多久完成，最重要的是，她们还在这里。
+他们照顾着我们和爱着我们，毫不懈怠，忍受我们的缺席和我们没完没了的抱怨这本书还要多久完成，最重要的是，她们依然还在我们身边。
 
 感谢 Shay Banon 在最开始创建了 Elasticsearch，感谢 Elastic 公司支持本书的工作。
 也非常感谢 Elastic 所有的同事，他们帮助我们透彻的了解 Elasticsearch 内部如何工作并且一直负责添加完善和修复与他们相关的部分。
@@ -258,8 +258,8 @@ endif::es_build[]
 
 *   Adrien Grand 深入到代码中回答问题，并检查我们的解释，以确保他们合理。
 
-感谢 O'Reilly 承担这个项目和我们一起工作使这本书免费在线观看，还有一直温柔哄骗我们的编辑 Brian Anderson 和善良而温柔的评论者 Benjamin Devèze、Ivan
-Brusic 和 Leo Lapworth 。你们的鼓励，让我们充满希望。
+感谢 O'Reilly 承担这个项目和我们一起工作使这本书免费在线阅读，还有一直温柔哄骗我们的编辑 Brian Anderson 和善良而温柔的评论者 Benjamin Devèze、Ivan
+Brusic 和 Leo Lapworth。你们的鼓励，让我们充满希望。
 
 感谢我们的读者，其中一些我们只有通过各自的 GitHub 才知道他们的身份，他们花时间报告问题、提供修正或提出改进建议：
 
