@@ -285,11 +285,11 @@ Somula, Wei Zhu, Will Kahn-Greene 和 Yuri Bakumenko。
 最后感谢所有参与本书的中文译者与审校人员，他们分别是：
 xuej，luotitan，pengqiuyuan，chenryn，richardwei2008，
 dajyaretakuya，looly，michealzh，node，sdlyjzh，wharstr9027，
-sunyonggang，zhaochenxiao90，Josephjin，lephix，blogsit，calm4wei，
-Geolem，JessicaWon，kfypmqqw，weiqiangyuan，yichao2015，rockybean，
-leo560，tangmisi，cdma，calm4wei，EvanYellow，fanyer，Lywangwenbin，
-luoruixing，Miranda21，weikuo0506，javasgl，kaichuang1992，lvbabc，
-kankedong，smilesfc，qindongliang，wxz717，biyuhao，LiuGangR，lxy4java，
-wangxiuwen，zcola，gitqh，blackoon，davidmr_001，stromdush，feuyeux，
-echolihao，cch123，xlingit，chancelee228，sunzhenya，Alix-Mu，bsll，
-donglangdtstack，destinyfortune，medcl
+sunyonggang，zhaochenxiao90，Josephjin，lephix，claire chen，blogsit，
+calm4wei，Geolem，JessicaWon，kfypmqqw，weiqiangyuan，yichao2015，
+rockybean，leo560，tangmisi，cdma，calm4wei，EvanYellow，fanyer，
+Lywangwenbin，luoruixing，Miranda21，weikuo0506，javasgl，kaichuang1992，
+lvbabc，kankedong，smilesfc，qindongliang，wxz717，biyuhao，LiuGangR，
+lxy4java，wangxiuwen，zcola，gitqh，blackoon，davidmr_001，stromdush，
+feuyeux，echolihao，cch123，xlingit，chancelee228，sunzhenya，AlixMu，
+bsll，donglangdtstack，destinyfortune，medcl
