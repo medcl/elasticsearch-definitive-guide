@@ -79,7 +79,7 @@ ifndef::es_build[]
    主要是介绍 Elasticsearch。介绍了 Elasticsearch 的数据输入输出以及 Elasticsearch 如何处理你的文档数据。
    如何进行基本的搜索操作和管理你的索引。 本章结束你将学会如何将 Elasticsearch 与你的应用程序进行集成。
    章节：pass:[<a href="#distributed-cluster">2</a>]、 pass:[<a href="#distributed-docs">4</a>]、 pass:[<a href="#distributed-search">9</a>] 和 pass:[<a href="#inside-a-shard">11</a>]
-   为附加章节好让你了解分布式处理的过程，不是必读的。
+   为附加章节，目的是让你了解分布式处理的过程，不是必读的
 
 *  章节 pass:[<a href="#structured-search">12</a>] 到 pass:[<a href="#controlling-relevance">17</a>]
    让你深入了解搜索，如何索引和查询你的数据，并借助一些更高级的特性，如邻近词（word proximity）和部分匹配（partial matching）
