@@ -293,4 +293,4 @@ http://github.com/Lywangwenbin[wwb]，http://github.com/luoruixing[瑞星]，htt
 http://github.com/lvbabc[吕兵]，http://github.com/kankedong[东]，http://github.com/smilesfc[杜宁]，http://github.com/qindongliang[秦东亮]，http://github.com/biyuhao[biyuhao]，http://github.com/LiuGangR[刘刚]，
 http://github.com/lxy4java[yumo]，http://github.com/wangxiuwen[王秀文]，http://github.com/zcola[zcola]，http://github.com/gitqh[gitqh]，http://github.com/blackoon[blackoon]，http://github.com/davidmr_001[David]，http://github.com/stromdush[韩炳辰]，
 http://github.com/feuyeux[韩陆]，http://github.com/echolihao[echolihao]，http://github.com/cch123[Xargin]，http://github.com/sunzhenya[abel-sun]，http://github.com/AlixMu[卞顺强]，
-http://github.com/bsll[bsll]，http://github.com/donglangdtstack[冬狼]，http://github.com/destinyfortune[王琦]，http://github.com/medcl[Medcl]
+http://github.com/bsll[bsll]，http://github.com/donglangdtstack[冬狼]，http://github.com/destinyfortune[王琦]，http://github.com/medcl[Medcl]。
