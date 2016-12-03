@@ -282,15 +282,15 @@ Gaviria, Scott Wilkerson, Sebastian Kurfürst, Sergii Golubev, Serkan Kucukbay,
 Thierry Jossermoz, Thomas Cucchietti, Tom Christie, Ulf Reimers, Venkat
 Somula, Wei Zhu, Will Kahn-Greene 和 Yuri Bakumenko。
 
-最后感谢所有参与本书的中文译者与审校人员，他们牺牲了大量宝贵的休息时间，他们对翻译内容仔细斟酌，一丝不苟，
-对修改意见认真对待，各抒己见，不厌其烦的修改与再次审校，这些默默奉献的可爱的人分别是：
-xuej，luotitan，pengqiuyuan，chenryn，richardwei2008，
-dajyaretakuya，looly，michealzh，node，sdlyjzh，wharstr9027，
-sunyonggang，zhaochenxiao90，Josephjin，lephix，claire chen，blogsit，
-calm4wei，Geolem，JessicaWon，kfypmqqw，weiqiangyuan，yichao2015，
-rockybean，leo650，tangmisi，cdma，calm4wei，EvanYellow，fanyer，
-Lywangwenbin，luoruixing，Miranda21，weikuo0506，javasgl，
-lvbabc，kankedong，smilesfc，qindongliang，biyuhao，LiuGangR，
-lxy4java，wangxiuwen，zcola，gitqh，blackoon，davidmr_001，stromdush，
-feuyeux，echolihao，cch123，xlingit，chancelee228，sunzhenya，AlixMu，
-bsll，donglangdtstack，destinyfortune，medcl
+感谢所有参与本书的中文译者与审校人员，他们牺牲了大量宝贵的休息时间，他们对翻译内容仔细斟酌，一丝不苟，
+对修改意见认真对待，各抒己见，不厌其烦的进行修改与再次审校，这些默默奉献的可爱的人分别是：
+http://github.com/xuej[薛杰]，http://github.com/luotitan[骆朗]，http://github.com/pengqiuyuan[彭秋源]，http://github.com/richardwei2008[魏喆]，http://github.com/chenryn[饶琛琳]，
+http://github.com/dajyaretakuya[风虎]，http://github.com/looly[路小磊]，http://github.com/michealzh[michealzh]，http://github.com/node[nodexy]，http://github.com/sdlyjzh[sdlyjzh]，http://github.com/wharstr9027[落英流离]，
+http://github.com/sunyonggang[sunyonggang]，http://github.com/zhaochenxiao90[Singham]，http://github.com/Josephjin[烧碱]，http://github.com/lephix[龙翔]，http://github.com/lephix[陈思，http://github.com/blogsit[陈华]，
+http://github.com/calm4wei[追风侃侃]，http://github.com/Geolem[Geolem]，http://github.com/JessicaWon[卷发]，http://github.com/kfypmqqw[kfypmqqw]，http://github.com/weiqiangyuan[袁伟强]，http://github.com/yichao2015[yichao]，
+http://github.com/rockybean[小彬]，http://github.com/leo650[leo]，http://github.com/tangmisi[tangmisi]，http://github.com/cdma[Alex]，http://github.com/calm4wei[追风侃侃]，http://github.com/EvanYellow[Evan]，http://github.com/fanyer[fanyer]，
+http://github.com/Lywangwenbin[wwb]，http://github.com/luoruixing[瑞星]，http://github.com/Miranda21[刘碧琴]，http://github.com/weikuo0506[walker]，http://github.com/javasgl[songgl]，
+http://github.com/lvbabc[吕兵]，http://github.com/kankedong[东]，http://github.com/smilesfc[杜宁]，http://github.com/qindongliang[秦东亮]，http://github.com/biyuhao[biyuhao]，http://github.com/LiuGangR[刘刚]，
+http://github.com/lxy4java[yumo]，http://github.com/wangxiuwen[王秀文]，http://github.com/zcola[zcola]，http://github.com/gitqh[gitqh]，http://github.com/blackoon[blackoon]，http://github.com/davidmr_001[David]，http://github.com/stromdush[韩炳辰]，
+http://github.com/feuyeux[韩陆]，http://github.com/echolihao[echolihao]，http://github.com/cch123[Xargin]，http://github.com/sunzhenya[abel-sun]，http://github.com/AlixMu[卞顺强]，
+http://github.com/bsll[bsll]，http://github.com/donglangdtstack[冬狼]，http://github.com/destinyfortune[王琦]，http://github.com/medcl[Medcl]
