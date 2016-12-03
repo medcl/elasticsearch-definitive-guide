@@ -282,7 +282,8 @@ Gaviria, Scott Wilkerson, Sebastian Kurfürst, Sergii Golubev, Serkan Kucukbay,
 Thierry Jossermoz, Thomas Cucchietti, Tom Christie, Ulf Reimers, Venkat
 Somula, Wei Zhu, Will Kahn-Greene 和 Yuri Bakumenko。
 
-最后感谢所有参与本书的中文译者与审校人员，他们分别是：
+最后感谢所有参与本书的中文译者与审校人员，他们牺牲了大量宝贵的休息时间，他们对翻译内容仔细斟酌，一丝不苟，
+对修改意见认真对待，各抒己见，不厌其烦的修改与再次审校，这些默默奉献的可爱的人分别是：
 xuej，luotitan，pengqiuyuan，chenryn，richardwei2008，
 dajyaretakuya，looly，michealzh，node，sdlyjzh，wharstr9027，
 sunyonggang，zhaochenxiao90，Josephjin，lephix，claire chen，blogsit，
