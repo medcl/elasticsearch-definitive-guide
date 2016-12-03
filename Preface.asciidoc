@@ -180,12 +180,12 @@ Do not edit this section.
 关于署名出处，我们欣赏但不是必须。一个出处通常包含：书名、作者、出版商和 ISBN。如： _Elasticsearch: The Definitive Guide_ by Clinton Gormley and Zachary Tong (O’Reilly). Copyright 2015 Elasticsearch BV, 978-1-449-35854-9。
 
 ifndef::es_build[]
-如果你觉得你的示例代码使用超出合理使用或上面给出的许可,可随时与我们联系 pass:[<a class="email" href="mailto:permissions@oreilly.com"><em>permissions@oreilly.com</em></a>].
+如果你觉得你的示例代码使用超出合理使用或上面给出的许可，可随时与我们联系 pass:[<a class="email" href="mailto:permissions@oreilly.com"><em>permissions@oreilly.com</em></a>]。
 endif::es_build[]
 
 ifdef::es_build[]
-如果你觉得你的示例代码使用超出合理使用或上面给出的许可,可随时与我们联系
-mailto:permissions@oreilly.com[].
+如果你觉得你的示例代码使用超出合理使用或上面给出的许可，可随时与我们联系
+mailto:permissions@oreilly.com[]。
 endif::es_build[]
 
 ifndef::es_build[]
@@ -286,7 +286,7 @@ Somula, Wei Zhu, Will Kahn-Greene 和 Yuri Bakumenko。
 对修改意见认真对待，各抒己见，不厌其烦的进行修改与再次审校，这些默默奉献的可爱的人分别是：
 http://github.com/xuej[薛杰]，http://github.com/luotitan[骆朗]，http://github.com/pengqiuyuan[彭秋源]，http://github.com/richardwei2008[魏喆]，http://github.com/chenryn[饶琛琳]，
 http://github.com/dajyaretakuya[风虎]，http://github.com/looly[路小磊]，http://github.com/michealzh[michealzh]，http://github.com/node[nodexy]，http://github.com/sdlyjzh[sdlyjzh]，http://github.com/wharstr9027[落英流离]，
-http://github.com/sunyonggang[sunyonggang]，http://github.com/zhaochenxiao90[Singham]，http://github.com/Josephjin[烧碱]，http://github.com/lephix[龙翔]，http://github.com/lephix[陈思，http://github.com/blogsit[陈华]，
+http://github.com/sunyonggang[sunyonggang]，http://github.com/zhaochenxiao90[Singham]，http://github.com/Josephjin[烧碱]，http://github.com/lephix[龙翔]，http://github.com/lephix[陈思]，http://github.com/blogsit[陈华]，
 http://github.com/calm4wei[追风侃侃]，http://github.com/Geolem[Geolem]，http://github.com/JessicaWon[卷发]，http://github.com/kfypmqqw[kfypmqqw]，http://github.com/weiqiangyuan[袁伟强]，http://github.com/yichao2015[yichao]，
 http://github.com/rockybean[小彬]，http://github.com/leo650[leo]，http://github.com/tangmisi[tangmisi]，http://github.com/cdma[Alex]，http://github.com/calm4wei[追风侃侃]，http://github.com/EvanYellow[Evan]，http://github.com/fanyer[fanyer]，
 http://github.com/Lywangwenbin[wwb]，http://github.com/luoruixing[瑞星]，http://github.com/Miranda21[刘碧琴]，http://github.com/weikuo0506[walker]，http://github.com/javasgl[songgl]，
