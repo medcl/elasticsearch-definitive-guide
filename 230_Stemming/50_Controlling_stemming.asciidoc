@@ -2,7 +2,7 @@
 === 控制词干提取
 
 开箱即用的词干提取方案永远也不可能完美。((("stemming words", "controlling stemming")))
-尤其是算法提取器，他们可以愉快的将规则应用于任何他们遇到到的词，包含些那你希望保持独立的词。
+尤其是算法提取器，他们可以愉快的将规则应用于任何他们遇到的词，包含那些你希望保持独立的词。
 也许，在你的场景，保持独立的 `skies` 和 `skiing` 是重要的，你不希望把他们提取为 `ski` （正如 `english` 分析器那样）。
 
 语汇单元过滤器 {ref}/analysis-keyword-marker-tokenfilter.html[`keyword_marker`] 和
